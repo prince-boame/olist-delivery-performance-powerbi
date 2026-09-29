@@ -253,7 +253,7 @@ The full `.pbix` file (with data) is larger than GitHub's upload limit, so this 
 
 **Option A: open the full report directly**
 
-Download the complete `.pbix` file from [Google Drive link]((https://drive.google.com/file/d/1w8bkateyr8M58r86MWgskntWtHtUSWzN/view?usp=drive_link)) and open it in Power BI Desktop.
+Download the complete `.pbix` file from [Google Drive link](https://drive.google.com/file/d/1w8bkateyr8M58r86MWgskntWtHtUSWzN/view?usp=drive_link) and open it in Power BI Desktop.
 
 **Option B: rebuild from the template**
 
