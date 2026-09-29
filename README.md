@@ -268,7 +268,7 @@ Download the complete `.pbix` file from [Google Drive link]((https://drive.googl
 
 **Prince Kofi Boame**
 
-- LinkedIn: [](https://www.linkedin.com/in/prince-boame)
-- Project post: [link to your LinkedIn post](https://www.linkedin.com/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/prince-boame)
+- Project post: [LinkedIn post link](https://www.linkedin.com/)
 
 Feedback and suggestions are very welcome. Feel free to open an issue or reach out on LinkedIn.
