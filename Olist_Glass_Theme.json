@@ -1,0 +1,39 @@
+{
+  "name": "Olist Glass",
+  "dataColors": ["#5B8CFF", "#22D3EE", "#FF5C7A", "#FFC247", "#8B7BFF", "#2EE59D", "#1F4BFF", "#C9D3FF"],
+  "background": "#0A1440",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#5B8CFF",
+  "good": "#2EE59D",
+  "neutral": "#FFC247",
+  "bad": "#FF5C7A",
+  "maximum": "#22D3EE",
+  "center": "#5B8CFF",
+  "minimum": "#0F1F66",
+  "textClasses": {
+    "callout": { "fontSize": 30, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "title": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "label": { "fontSize": 10, "fontFace": "Segoe UI", "color": "#C9D3FF" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": false }],
+        "border": [{ "show": false }],
+        "dropShadow": [{ "show": false }],
+        "title": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 12 }],
+        "categoryAxis": [{ "labelColor": { "solid": { "color": "#C9D3FF" } }, "gridlineShow": false }],
+        "valueAxis": [{ "labelColor": { "solid": { "color": "#C9D3FF" } }, "gridlineColor": { "solid": { "color": "#2A3570" } } }],
+        "legend": [{ "labelColor": { "solid": { "color": "#C9D3FF" } } }],
+        "labels": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{ "fontColor": { "solid": { "color": "#FFFFFF" } } }],
+        "header": [{ "fontColor": { "solid": { "color": "#C9D3FF" } } }]
+      }
+    }
+  }
+}
